@@ -3,6 +3,14 @@
 
 Lunch Lite is a Python-based mobile application designed for all those people who struggle with sticking to a diet due to the fact that they mostly eat on the street.
 
+## Inspiration
+
+Cats & dogs
+
+## Description 
+
+Cats & dogs
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
@@ -11,20 +19,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install foobar
 ```
 
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+MaryJo Albanes 
 
-Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
